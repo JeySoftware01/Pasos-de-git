@@ -1,1 +1,1 @@
-# Pasos-de-git
+# Pasos para sincronizar un repositorio de git 
