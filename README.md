@@ -14,7 +14,7 @@ El comando git remote add origin "URL repo" te permite crear una conexion con ot
 
 3 - git status
 
-!INPORTANTE¡
+! IMPORTANTE ¡
 El comando git status muestra el estado del directorio de trabajo y del área del entorno de ensayo. Permite ver los cambios que se han preparado, los que no y los archivos en los que Git no va a realizar el seguimiento. El resultado del estado no muestra ninguna información relativa al historial del proyecto.
 
 ![referencia 03](https://user-images.githubusercontent.com/124690541/220136625-5d37fb75-9f2c-44c5-b686-89ff6f147ce9.png)
